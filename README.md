@@ -12,7 +12,7 @@ Composer
 ```javascript
 {
     "require": {
-        "niletphp/error-handling": ">=1.0"
+        "niletphp/error-handling": ">=v1.0"
     }
 }
 ```
